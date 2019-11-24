@@ -1,0 +1,195 @@
+{
+"shapes": 
+[
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Circle": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"Length": 5.0,
+"Width": 5.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Ellipse": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"Length": 5.0,
+"Width": 5.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Line": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"Length": 5.0,
+"Width": 5.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Rectangle": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"Length": 5.0,
+"Width": 5.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Square": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"Length": 5.0,
+"Width": 5.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.draw.Shapes.Triangle": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 0,
+"g": 0,
+"b": 255
+},
+"properties": 
+{
+"move": 0.0,
+"release": 0.0,
+"click": 0.0
+}
+
+}},
+{
+"class eg.edu.alexu.csd.oop.test.DummyShape": 
+{
+"position": 
+{
+"x": 0.0,
+"y": 0.0
+},
+"fillcolor": 
+{
+"r": 255,
+"g": 255,
+"b": 255
+},
+"bordercolor": 
+{
+"r": 255,
+"g": 0,
+"b": 0
+},
+"properties": 
+{
+"Height": 0.0,
+"Width": 0.0
+}
+
+}}
+]
+}

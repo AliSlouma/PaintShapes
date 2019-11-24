@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Circle"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Ellipse"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Line"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Rectangle"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Square"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.draw.Shapes.Triangle"/>
+  </void>
+  <void method="add">
+   <object class="eg.edu.alexu.csd.oop.test.DummyShape">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>255</int>
+      <int>0</int>
+      <int>0</int>
+      <int>255</int>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
